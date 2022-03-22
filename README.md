@@ -1,28 +1,17 @@
 ### Hi there 👋, I'm Ken
 
+I'm a passionate Software Developer in Vancouver, Canada
 
-<!-- Actual text -->
+## 🧰 Technologies & Tools
 
-You can find me on [![LinkedIn][3.2]][3].
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)  
+ ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)  ![](https://img.shields.io/badge/Databases-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+## 📈 Github Stats
 
-<!-- Icons -->
+<a href="https://github.com/kentiet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentiet&theme=blueberry&langs_count=3" />
+</a> 
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/kentiet/
-<!--
-**kentiet/kentiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/kentiet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kentiet&show_icons=true&line_height=27&count_private=true&theme=blueberry" alt="Ken's GitHub Stats" />
+</a> 
